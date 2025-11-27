@@ -43,7 +43,7 @@
                 <div class="relative w-full max-w-xs sm:max-w-sm md:max-w-md">
                     <span class="bg-pink-500 rounded-full w-48  h-48 sm:w-64 sm:h-64 absolute -top-10 -left-10 opacity-20" aria-hidden="true"></span>
                     <span class="bg-purple-400  rounded-full w-48  h-48 sm:w-64 sm:h-64 absolute -bottom-10 -right-10 opacity-20"></span>
-                    <img src="@assets/Hero.jpg" alt="woman smilling after cosmetic treatment" class="relative z-10 rounded-full shadow-2xl w-full object-cover" width="400" height="400" loading="eager">
+                    <img src="@assets/hero.jpg" alt="woman smilling after cosmetic treatment" class="relative z-10 rounded-full shadow-2xl w-full object-cover" width="400" height="400" loading="eager">
                 </div>
              </figure>
         </article>
