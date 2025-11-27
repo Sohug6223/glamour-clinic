@@ -1,5 +1,25 @@
-# Vue 3 + Vite
+# Glamour Clinic — Premium Aesthetic Clinic Website
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A modern, responsive, and luxurious cosmetic clinic website built with **Vue 3 + Vite + Tailwind CSS**.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Features
+- Fully Responsive (Mobile + Desktop)
+- Smooth Animations (AOS)
+- Hero Section with Stats
+- Services Grid
+- About Us with Stats
+- Meet Our Specialists
+- Contact Form + Google Maps
+- Newsletter Subscription
+- Beautiful Footer with Social Links
+
+## Tech Stack
+- Vue 3 (Composition API + `<script setup>`)
+- Vite
+- Tailwind CSS
+- AOS (Animate on Scroll)
+- Iconify Icons
+
+##Reference- oualicode
+
+##Live Demo: https://glamoursclinic.netlify.app/
